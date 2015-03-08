@@ -1,0 +1,53 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "walrus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 326 download events in this period)
+Total number of records downloaded: 1 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Monodon" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 143
+Total number of records retrieved from searches: 541
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 143
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 152
+Total number of records retrieved from searches: 553
+Number of download events that retrieved data from the resource: 12
+Total number of records downloaded: 570
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
