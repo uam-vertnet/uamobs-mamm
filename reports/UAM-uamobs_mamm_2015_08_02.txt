@@ -1,0 +1,57 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "marmot" ; Times: 1
+	Query: "Jack J Withrow stateprovince:"Alaska"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1084 download events in this period)
+Total number of records downloaded: 38 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 38
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chiroptera" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 154
+Total number of records retrieved from searches: 621
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 452
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 163
+Total number of records retrieved from searches: 633
+Number of download events that retrieved data from the resource: 25
+Total number of records downloaded: 879
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
