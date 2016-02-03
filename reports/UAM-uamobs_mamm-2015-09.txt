@@ -1,0 +1,61 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 148
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-15 ; Times: 6
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-09 ; Times: 4
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cetacea institutioncode:UAM" ; Times: 1
+	Query: "marmota caligata" ; Times: 1
+	Query: "animals" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "&#34;Ursus arctos&#34; mappable:1" ; Times: 4
+	Query: "Lasiurus cinereus" ; Times: 3
+	Query: "how to cite" ; Times: 1
+	Query: "specificepithet:othus genus:Lepus" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1045 download events in this period)
+Total number of records downloaded: 111
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cetacea institutioncode:UAM" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
