@@ -1,0 +1,51 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "how to cite vertNET" ; Times: 1
+	Query: "arctic ground squirrel" ; Times: 1
+	Query: "marmota monax stateprovince:&#34;alaska&#34; mappable:1" ; Times: 1
+	Query: "Eschrichtius skull" ; Times: 1
+	Query: "marmot" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 889 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-25 ; Times: 2
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+
+
+End of report.
