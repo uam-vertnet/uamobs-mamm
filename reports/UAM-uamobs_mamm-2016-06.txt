@@ -1,0 +1,74 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 101
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 15
+	Country: Portugal ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-21 ; Times: 6
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "Mammal tibia" ; Times: 1
+	Query: "182 uam" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 2
+	Query: "specificepithet:rutilus genus:Myodes stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 3
+	Query: "genus:canis" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "182 UAM" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Odobenus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1052 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "canis latrans" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+
+
+End of report.
