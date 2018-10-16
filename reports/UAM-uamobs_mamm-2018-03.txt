@@ -1,0 +1,55 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 86
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Denmark ; Times: 14
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-07 ; Times: 14
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "marmota caligata" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "recordedby:McConnell" ; Times: 1
+	Query: "genus:Phoca" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAMObs:Mamm:138?seid=1166732&#34;" ; Times: 4
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 2
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 5
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "Phoca vitulina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1284 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 3
+
+
+End of report.
