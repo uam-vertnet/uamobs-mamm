@@ -1,0 +1,69 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-07 ; Times: 4
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Rangifer tarandus caribou" ; Times: 4
+	Query: "genus:Ovibos specificepithet:moschatus mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer" ; Times: 1
+	Query: "genus:Marmota specificepithet:broweri mappable:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 3
+	Query: "genus:Ursus specificepithet:arctos mappable:1" ; Times: 2
+	Query: "Eschrichtius robustus" ; Times: 2
+	Query: "genus:ovibos" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:parryii mappable:1" ; Times: 2
+	Query: "genus:Rangifer specificepithet:tarandus mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "genus:Marmota specificepithet:caligata mappable:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:othus mappable:1" ; Times: 1
+	Query: "rangifer" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1359 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+
+
+End of report.
