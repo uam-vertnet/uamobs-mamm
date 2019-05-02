@@ -1,0 +1,47 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lynx vntype:observation" ; Times: 1
+	Query: "genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "VOLES" ; Times: 2
+	Query: "marmot institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1281 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumetopias jubatus; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
