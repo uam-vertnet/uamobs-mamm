@@ -1,0 +1,57 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-16 ; Times: 3
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phoca specificepithet:vitulina" ; Times: 1
+	Query: "rabbits" ; Times: 3
+	Query: "marmot" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:parryii stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 1
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "dolphins" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1182 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "marmot" ; Times: 2
+	Query: "dolphins" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+
+
+End of report.
