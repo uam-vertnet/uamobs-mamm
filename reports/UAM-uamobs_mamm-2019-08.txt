@@ -1,0 +1,67 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 195
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 20
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-07 ; Times: 7
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:canidae institutioncode:UAM" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "marmot" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 20
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "ovibos moschatus" ; Times: 3
+	Query: "catalognumber:244" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1034 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovibos" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Sciuridae" ; Times: 1
+
+
+End of report.
