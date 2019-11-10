@@ -1,0 +1,49 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 77
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-06 ; Times: 8
+	Date: 2019-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Canis latrans basisofrecord:HumanObservation" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "ermine" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "open bay" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1073 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+
+
+End of report.
