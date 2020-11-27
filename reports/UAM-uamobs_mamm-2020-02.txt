@@ -1,0 +1,60 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 181
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-03 ; Times: 3
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Odobenus rosmarus&#34;" ; Times: 2
+	Query: "phoca" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "odobenus rosmarus" ; Times: 1
+	Query: "&#34;Marmota monax&#34;" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "&#34; Odobenus rosmarus&#34;" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1023 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+
+
+End of report.
