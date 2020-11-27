@@ -1,0 +1,65 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 14
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lynx canadensis 2019" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Alaska&#34;" ; Times: 6
+	Query: "ovibos" ; Times: 1
+	Query: "snowshoe hair" ; Times: 1
+	Query: "Lynx canadensis 2013" ; Times: 1
+	Query: "Lynx canadensis 2012" ; Times: 1
+	Query: "marmot" ; Times: 3
+	Query: "Lynx canadensis 2010" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "Lynx canadensis 2006" ; Times: 1
+	Query: "Lynx canadensis 2014" ; Times: 1
+	Query: "Lynx canadensis 1981" ; Times: 1
+	Query: "Lynx canadensis 2005" ; Times: 1
+	Query: "Lynx canadensis 2003" ; Times: 1
+	Query: "Lynx canadensis 1984" ; Times: 1
+	Query: "(5000) institutioncode:UAM" ; Times: 2
+	Query: "Lynx canadensis 2007" ; Times: 1
+	Query: "Basking" ; Times: 1
+	Query: "specificepithet:monax genus:marmota stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Lynx canadensis 2011" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1308 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
