@@ -1,0 +1,67 @@
+Report for Institution Code UAM, Resource uamobs_mamm
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-10 ; Times: 22
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:observation hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "hoary bat" ; Times: 1
+	Query: "Rangifer tarandus Alaska" ; Times: 3
+	Query: "scientificname:Marmota monax" ; Times: 2
+	Query: "scientificname:Lynx canadensis" ; Times: 4
+	Query: "scientificname:Lasiurus cinereus" ; Times: 4
+	Query: "scientificname:Grampus griseus" ; Times: 2
+	Query: "camera" ; Times: 2
+	Query: "scientificname:Tamiasciurus hudsonicus" ; Times: 1
+	Query: "scientificname:Delphinapterus leucas" ; Times: 2
+	Query: "scientificname:Phoca vitulina" ; Times: 4
+	Query: "scientificname:Canis latrans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 842 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-12 ; Times: 2
+	Date: 2020-11-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+
+
+End of report.
